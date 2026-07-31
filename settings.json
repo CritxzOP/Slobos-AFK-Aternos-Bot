@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dawg-fI0e.aternos.me",
+    "ip": "dawg-fI0e.aternos.me:40271",
     "port": 40271,
     "version": "",
     "try-creative": false
